@@ -10,15 +10,15 @@
 	"education": [
 
 		{
-			"id": "SSC","school": "Bahria Foundation College, Isb","totalMarks": 1050,"obtainedMarks": 830
+			"id": "SSC","inst": "Bahria Foundation College, Isb","totalMarks": 1050,"obtainedMarks": 830
 			
 		},
 		{
-			"id":"HSSC","college": "Islamabad Model College for Girls, Isb","totalMarks": 1050,"obtainedMarks": 846
+			"id":"HSSC","inst": "Islamabad Model College for Girls, Isb","totalMarks": 1050,"obtainedMarks": 846
 			
 		},
 		{
-			"id":"BS","university": "Comsats University,Isb","totalGPA": 4,"cgpa": 3.49
+			"id":"BS","inst": "Comsats University,Isb","totalMarks": 4,"obtainedMarks": 3.49
 		}
 	],
 	"workExperience": [
