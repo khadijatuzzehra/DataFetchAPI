@@ -10,33 +10,21 @@
 	"education": [
 
 		{
-			"SSC": {
-				"school": "Bahria Foundation College, Isb",
-				"totalMarks": 1050,
-				"obtainedMarks": 830
-			}
+			"id": "SSC","school": "Bahria Foundation College, Isb","totalMarks": 1050,"obtainedMarks": 830
+			
 		},
 		{
-			"HSSC": {
-				"college": "Islamabad Model College for Girls, Isb",
-				"totalMarks": 1050,
-				"obtainedMarks": 846
-			}
+			"id":"HSSC","college": "Islamabad Model College for Girls, Isb","totalMarks": 1050,"obtainedMarks": 846
+			
 		},
 		{
-			"BS": {
-				"university": "Comsats University,Isb",
-				"totalGPA": 4,
-				"cgpa": 3.49
-			}
+			"id":"BS","university": "Comsats University,Isb","totalGPA": 4,"cgpa": 3.49
 		}
 	],
 	"workExperience": [
 	        {
-			"Hysetech Technologies": {
-				"title": "Developer",
-				"joined": "2022"
-			}
+			"place":"Hysetech Technologies","title": "Developer","joined": "2022"
+			
 		}
 
 	],
