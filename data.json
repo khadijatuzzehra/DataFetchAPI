@@ -1,0 +1,55 @@
+{
+	"aboutMe": {
+		"fullName": "Khadija Tuz Zehra",
+		"email": "zaidikhadija462@gmail.com",
+		"website": "https://github.com/khadijatuzzehra",
+		"address": "Media Town, Islamabad",
+		"profilePic": "https://lh3.googleusercontent.com/a-/AOh14GgJabKQ_MUoUVUxDFT1IcJr_DX8PPlZnYBojxrr7w=s288-p-rw-no",
+		"linkedin": "https://www.linkedin.com/in/khadija-tuz-zehra/"
+	},
+	"education": [
+
+		{
+			"SSC": {
+				"school": "Bahria Foundation College, Isb",
+				"totalMarks": 1050,
+				"obtainedMarks": 830
+			}
+		},
+		{
+			"HSSC": {
+				"college": "Islamabad Model College for Girls, Isb",
+				"totalMarks": 1050,
+				"obtainedMarks": 846
+			}
+		},
+		{
+			"BS": {
+				"university": "Comsats University,Isb",
+				"totalGPA": 4,
+				"cgpa": 3.49
+			}
+		}
+	],
+	"workExperience": [
+	        {
+			"Hysetech Technologies": {
+				"title": "Developer",
+				"joined": "2022"
+			}
+		}
+
+	],
+	"skills": [
+		"Doodle Art",
+		"Web Development",
+		"Mobile App Development",
+		"Video Editing",
+		"Programming"
+	],
+	"contact": {
+		"email": "zaidikhadija462@gmail.com",
+		"linkedin": "https://www.linkedin.com/in/khadija-tuz-zehra/"
+	}
+
+}
